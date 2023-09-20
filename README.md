@@ -5,14 +5,13 @@
 <p align="center" valign="center">
     <a href="https://www.linkedin.com/in/ecukalla/">LinkedIn</a> | 
     <a href="https://twitter.com/ecukalla">Twitter</a> |
-    <a href="https://youtube.com/ecukalla">YouTube</a> | 
     <a href="https://www.strava.com/athletes/ecukalla">Strava</a>
 </p>
 
 <br>
 
 Personal acomplishment goals:<br>
-Currently on a persue of becoming a triathlete finisher and waiting to get a sponsor for my next Ironman 🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️ journey.
+Embarking on a lifelong journey of self-improvement to ensure enduring vitality and passion.
 
 <br>
 Technical:<br>
