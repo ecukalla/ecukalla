@@ -4,7 +4,7 @@
 
 <p align="center" valign="center">
     <a href="https://www.linkedin.com/in/ecukalla/">LinkedIn</a> | 
-    <a href="https://twitter.com/ecukalla">Twitter</a> |
+    <a href="https://x.com/ecukalla">X</a> |
     <a href="https://www.strava.com/athletes/ecukalla">Strava</a>
 </p>
 
@@ -15,10 +15,10 @@ Embarking on a lifelong journey of self-improvement to ensure enduring vitality 
 
 <br>
 Technical:<br>
-Software Engineer with Python & AWS Serverless experties
+Software Engineer with expertise in Python, Java, and Node, focusing on AWS Serverless and Container technologies.
 
 <br>
-Founder and organizer of <a href="https://www.linkedin.com/company/pythontirana">Pyrana</a>, aka Python Tirana User Group. Our goal is to keep Python related events gathering people interested in technical and non-tech talks & workshops and companies which have interest to pitch their openings to interested individuals.
+I’m an engineering professional focused on backend development, cloud solutions, and infrastructure. I work with AWS serverless technologies, containers, Python, and Terraform to deliver scalable, efficient, and cost-effective systems. My approach combines automation, optimized system performance, and reliability. I enjoy mentoring teams, sharing best practices, and contributing to technical communities.
 
 <br>
 
