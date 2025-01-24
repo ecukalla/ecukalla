@@ -1,11 +1,9 @@
-### Hi there! 👋 I guess you have found the right place to be 🙂.
+### Hi there! 👋.
 
 <br>
 
 <p align="center" valign="center">
-    <a href="https://www.linkedin.com/in/ecukalla/">LinkedIn</a> | 
-    <a href="https://x.com/ecukalla">X</a> |
-    <a href="https://www.strava.com/athletes/ecukalla">Strava</a>
+    <a href="https://x.com/ecukalla">X</a>
 </p>
 
 <br>
@@ -15,11 +13,12 @@ Embarking on a lifelong journey of self-improvement to ensure enduring vitality 
 
 <br>
 Technical:<br>
-Software Engineer with expertise in Python, Java, and Node, focusing on AWS Serverless and Container technologies.
+Backend developer specializing in cloud solutions and infrastructure, with expertise in AWS serverless technologies, containers, Python, and Terraform. I focus on delivering scalable, efficient, and cost-effective systems through automation, performance optimization, and reliability.
+
+I actively mentor people, share best practices, and contribute to technical communities. 
 
 <br>
-I’m an engineering professional focused on backend development, cloud solutions, and infrastructure. I work with AWS serverless technologies, containers, Python, and Terraform to deliver scalable, efficient, and cost-effective systems. My approach combines automation, optimized system performance, and reliability. I enjoy mentoring teams, sharing best practices, and contributing to technical communities.
 
-<br>
+Connect with me through the social media link provided above.
 
-You can reach me on any social media provided above :-).
+🕧 Coming soon: My personal writing website.
