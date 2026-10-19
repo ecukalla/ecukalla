@@ -13,7 +13,7 @@
 
 <br>I help people with whatever they want to accomplish.<br>
 
-Technical: Software Engineer specializing in cloud solutions and infrastructure.<br>
+Technical: Hands-on Engineer and Manager focused on AWS, Platform Tooling, and Cloud Security<br>
 
 <br> My personal <a href="https://light-tech-talk.com">blog</a> where I share my thoughts from technology to different essays
 
